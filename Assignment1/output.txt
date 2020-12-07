@@ -1,0 +1,78 @@
+Word Collection Source File: input.txt
+<A>
+           a  (3)  8  9 10
+       again  (1) 12
+         and  (4) 10 12
+  assignment  (1)  9
+<B>
+      better  (1)  4
+         big  (1) 11
+         but  (1)  6
+          by  (5)  1  3  4  6
+<C>
+           c  (1) 12
+      called  (1) 11
+       class  (1)  7
+       const  (1)  4
+ constructor  (1)  8
+        copy  (2)  8  9
+<D>
+     defines  (1)  7
+  destructor  (1) 10
+          do  (2)  1  3
+     dynamic  (1)  2
+<E>
+  emphasized  (1) 12
+        even  (1)  4
+        ever  (1)  3
+<F>
+   functions  (2)  1  3
+<G>
+<H>
+      handle  (1)  2
+        heap  (1)  2
+<I>
+         i.e  (1)  2
+          if  (2)  2  6
+          in  (1) 12
+     instead  (1)  4
+          is  (1) 12
+<J>
+<K>
+<L>
+  literature  (1) 12
+<M>
+        make  (1)  7
+      memory  (2)  2  3
+        must  (1)  6
+<N>
+         not  (2)  1  3
+<O>
+     objects  (5)  1  2  3  6  7
+          of  (2)  7 11
+    operator  (1)  9
+          or  (2)  4 11
+        over  (3) 12
+<P>
+        pass  (5)  1  3  4  6
+<Q>
+<R>
+   reference  (2)  4
+        rule  (1) 11
+<S>
+        sure  (1)  7
+<T>
+        that  (1)  7
+      that's  (1) 11
+         the  (5)  2  7 11 12
+       these  (2)  6  7
+       three  (2) 11 12
+          to  (2)  1  3
+<U>
+<V>
+       value  (3)  1  3  6
+<W>
+<X>
+<Y>
+         you  (1)  6
+<Z>
